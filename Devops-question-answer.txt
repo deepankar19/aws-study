@@ -1,0 +1,15 @@
+1. what are your daily responsibilities as a devops engineer?
+
+ans:- As a DevOps engineer, daily responsibilities typically revolve around supporting development and operations
+      teams to improve the CI/CD process, automate tasks, and maintain infrastructure.
+
+1. Manage Pipelines: Keep the automated build and release process running smoothly.
+2. Set Up Infrastructure: Build and manage servers, networks, and other resources.
+3. Automate Tasks: Write scripts to handle repetitive tasks, saving time and reducing errors.
+4. Monitor Systems: Watch over systems and quickly fix any issues that pop up.
+5. Standardize Configurations: Use tools to keep software settings the same across all servers.
+6. Work with Teams: Help developers and IT teams solve problems and set up what they need.
+7. Keep Things Secure: Make sure systems are safe by managing permissions and access.
+8. Document Processes: Write down steps and settings for easy reference and future use.
+9. Learn New Tools: Stay on top of the latest tools and techniques to keep improving.
+
